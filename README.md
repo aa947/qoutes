@@ -12,6 +12,7 @@ use tweet button to share the quote on your twitter account. </li>
 </p>
 
 ## video
+[![quotes generator ](http://img.youtube.com/vi/aVRMGY-xUSI/0.jpg)](http://www.youtube.com/watch?v=aVRMGY-xUSI "quotes generator ")
 
 
 ## my portfolio:
